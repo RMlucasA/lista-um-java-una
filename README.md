@@ -2,7 +2,7 @@
 
 lista de exercício um em java 
 
-Meu perfil no [linkedin]()
+Meu perfil no [linkedin](https://www.linkedin.com/in/lucas-alves-259320274/)
 
 Tecnologias-usadas
 
